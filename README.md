@@ -53,6 +53,12 @@ This project focuses on understanding customer churn trends using Python. It inv
 
  sns.countplot(x=df['Churn'])
  plt.show()
+  
+  ![Churned Customers by Payment Method](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(61).png)
+
+![Multiple Countplots](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(62).png)
+
+![Histogram of Tenure](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(63).png)
 
 ### 🎯 Conclusion
 
