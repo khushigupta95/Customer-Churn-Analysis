@@ -9,10 +9,9 @@ This project focuses on understanding customer churn trends using Python. It inv
 ---
 
 ## 📁 Files Included
-- `churn_data.csv` - The dataset used for analysis.  
-- `eda.ipynb` - Exploratory Data Analysis (EDA) with visualizations.  
-- `README.md` - Project documentation.  
-
+- -<a href="https://github.com/khushigupta95/Customer-Churn-Analysis/blob/main/Customer%20Churn.csv">Dataset</a> - The dataset used for analysis.  
+- -<a href="https://github.com/khushigupta95/Customer-Churn-Analysis/blob/main/TCA.ipynb">Jupyter notebook</a> - Exploratory Data Analysis (EDA) with visualizations.  
+  
 ---
 
 ## 🛠️ Tools & Technologies Used
@@ -53,12 +52,12 @@ This project focuses on understanding customer churn trends using Python. It inv
 
  sns.countplot(x=df['Churn'])
  plt.show()
-  
-  ![Churned Customers by Payment Method](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(61).png)
+ 
+ ![Churned Customers by Payment Method](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/IMAGES/Screenshot%20(61).png)
 
-![Multiple Countplots](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(62).png)
+![Multiple Countplots](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/IMAGES/Screenshot%20(62).png)
 
-![Histogram of Tenure](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/path-to-your-image/Screenshot%20(63).png)
+![Histogram of Tenure](https://raw.githubusercontent.com/khushigupta95/Customer-Churn-Analysis/main/IMAGES/Screenshot%20(63).png)
 
 ### 🎯 Conclusion
 
